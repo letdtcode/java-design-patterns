@@ -243,6 +243,7 @@
     <module>virtual-proxy</module>
     <module>visitor</module>
       <module>backpressure</module>
+      <module>dao-factory</module>
   </modules>
   <repositories>
     <repository>
